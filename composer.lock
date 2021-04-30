@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "86d2639ef11cf1f5dc66c666793a802e",
+    "content-hash": "9714e9280072489774704f6a12d0d8e2",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3157,16 +3157,16 @@
         },
         {
             "name": "laravel-enso/excel",
-            "version": "2.0.1",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/excel.git",
-                "reference": "6d1892d4b3a656de8d07380f5f7dfb5970fa16ee"
+                "reference": "1a660337e6beb1a675a05bac214da25453f3c51f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/excel/zipball/6d1892d4b3a656de8d07380f5f7dfb5970fa16ee",
-                "reference": "6d1892d4b3a656de8d07380f5f7dfb5970fa16ee",
+                "url": "https://api.github.com/repos/laravel-enso/excel/zipball/1a660337e6beb1a675a05bac214da25453f3c51f",
+                "reference": "1a660337e6beb1a675a05bac214da25453f3c51f",
                 "shasum": ""
             },
             "require": {
@@ -3210,7 +3210,7 @@
                 "laravel",
                 "laravel-enso"
             ],
-            "time": "2020-07-09T06:40:14+00:00"
+            "time": "2020-12-10T18:56:20+00:00"
         },
         {
             "name": "laravel-enso/files",
