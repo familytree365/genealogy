@@ -5062,25 +5062,25 @@
         },
         {
             "name": "laravel/horizon",
-            "version": "v5.4.0",
+            "version": "v5.6.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/horizon.git",
-                "reference": "d08d10ee12f53b7ba2cbb938eb23857e93fe51d3"
+                "reference": "26682428b9c580abc690086f816643325427f0fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/horizon/zipball/d08d10ee12f53b7ba2cbb938eb23857e93fe51d3",
-                "reference": "d08d10ee12f53b7ba2cbb938eb23857e93fe51d3",
+                "url": "https://api.github.com/repos/laravel/horizon/zipball/26682428b9c580abc690086f816643325427f0fb",
+                "reference": "26682428b9c580abc690086f816643325427f0fb",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
                 "ext-pcntl": "*",
                 "ext-posix": "*",
-                "illuminate/contracts": "^8.0",
-                "illuminate/queue": "^8.0",
-                "illuminate/support": "^8.0",
+                "illuminate/contracts": "^8.17",
+                "illuminate/queue": "^8.17",
+                "illuminate/support": "^8.17",
                 "nesbot/carbon": "^2.17",
                 "php": "^7.3|^8.0",
                 "ramsey/uuid": "^4.0",
@@ -5131,7 +5131,7 @@
                 "laravel",
                 "queue"
             ],
-            "time": "2020-11-03T16:55:40+00:00"
+            "time": "2021-02-09T16:23:38+00:00"
         },
         {
             "name": "laravel/sanctum",
