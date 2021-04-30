@@ -4547,16 +4547,16 @@
         },
         {
             "name": "laravel-enso/tasks",
-            "version": "1.1.7",
+            "version": "1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/tasks.git",
-                "reference": "ff86cf14af3e38536d8b939280e6de98a18e1f1c"
+                "reference": "6b009e9e4d136aa962a0709f4c17f88702ceaff1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/tasks/zipball/ff86cf14af3e38536d8b939280e6de98a18e1f1c",
-                "reference": "ff86cf14af3e38536d8b939280e6de98a18e1f1c",
+                "url": "https://api.github.com/repos/laravel-enso/tasks/zipball/6b009e9e4d136aa962a0709f4c17f88702ceaff1",
+                "reference": "6b009e9e4d136aa962a0709f4c17f88702ceaff1",
                 "shasum": ""
             },
             "type": "library",
@@ -4566,6 +4566,7 @@
                         "LaravelEnso\\Tasks\\AppServiceProvider",
                         "LaravelEnso\\Tasks\\AuthServiceProvider",
                         "LaravelEnso\\Tasks\\BroadcastServiceProvider",
+                        "LaravelEnso\\Tasks\\WebsocketServiceProvider",
                         "LaravelEnso\\Tasks\\EnumServiceProvider"
                     ]
                 }
@@ -4601,7 +4602,7 @@
                 "laravel-enso",
                 "task-management"
             ],
-            "time": "2020-11-08T13:52:23+00:00"
+            "time": "2021-01-15T16:15:45+00:00"
         },
         {
             "name": "laravel-enso/teams",
