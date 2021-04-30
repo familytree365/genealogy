@@ -2865,16 +2865,16 @@
         },
         {
             "name": "laravel-enso/data-import",
-            "version": "5.3.3",
+            "version": "5.3.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/data-import.git",
-                "reference": "e02be67c2a254302e4b946a06d3e5ff04121653b"
+                "reference": "a3fe5196c3556c66f2518900d019c533db5369d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/data-import/zipball/e02be67c2a254302e4b946a06d3e5ff04121653b",
-                "reference": "e02be67c2a254302e4b946a06d3e5ff04121653b",
+                "url": "https://api.github.com/repos/laravel-enso/data-import/zipball/a3fe5196c3556c66f2518900d019c533db5369d6",
+                "reference": "a3fe5196c3556c66f2518900d019c533db5369d6",
                 "shasum": ""
             },
             "require": {
@@ -2931,7 +2931,7 @@
                 "excel-importer",
                 "laravel-enso"
             ],
-            "time": "2020-10-29T16:47:37+00:00"
+            "time": "2020-11-18T12:05:56+00:00"
         },
         {
             "name": "laravel-enso/discussions",
@@ -3096,16 +3096,16 @@
         },
         {
             "name": "laravel-enso/enums",
-            "version": "2.1.0",
+            "version": "2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/enums.git",
-                "reference": "788f0feee8a61154432862222d3430ffbb6b8090"
+                "reference": "8f55b5c42e264ffb5a407e57062f617659884441"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/enums/zipball/788f0feee8a61154432862222d3430ffbb6b8090",
-                "reference": "788f0feee8a61154432862222d3430ffbb6b8090",
+                "url": "https://api.github.com/repos/laravel-enso/enums/zipball/8f55b5c42e264ffb5a407e57062f617659884441",
+                "reference": "8f55b5c42e264ffb5a407e57062f617659884441",
                 "shasum": ""
             },
             "require": {
@@ -3153,7 +3153,7 @@
                 "enums",
                 "laravel-enso"
             ],
-            "time": "2020-11-02T09:17:02+00:00"
+            "time": "2020-12-11T14:17:36+00:00"
         },
         {
             "name": "laravel-enso/excel",
@@ -3214,16 +3214,16 @@
         },
         {
             "name": "laravel-enso/files",
-            "version": "4.0.5",
+            "version": "4.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/files.git",
-                "reference": "970a96a05aa4e480dc0759fed8db91b215fef798"
+                "reference": "6e84c13128bf955546b71eb7b4afa2025ee02bb7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/files/zipball/970a96a05aa4e480dc0759fed8db91b215fef798",
-                "reference": "970a96a05aa4e480dc0759fed8db91b215fef798",
+                "url": "https://api.github.com/repos/laravel-enso/files/zipball/6e84c13128bf955546b71eb7b4afa2025ee02bb7",
+                "reference": "6e84c13128bf955546b71eb7b4afa2025ee02bb7",
                 "shasum": ""
             },
             "require": {
@@ -3273,20 +3273,20 @@
                 "files",
                 "laravel-enso"
             ],
-            "time": "2020-10-08T09:52:43+00:00"
+            "time": "2020-12-26T08:11:41+00:00"
         },
         {
             "name": "laravel-enso/filters",
-            "version": "2.0.1",
+            "version": "2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/filters.git",
-                "reference": "b696044d44fa99df66bacbc6b4399be1328b5e81"
+                "reference": "cc7fa62476d12e105797100809a53c2783f8839b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/filters/zipball/b696044d44fa99df66bacbc6b4399be1328b5e81",
-                "reference": "b696044d44fa99df66bacbc6b4399be1328b5e81",
+                "url": "https://api.github.com/repos/laravel-enso/filters/zipball/cc7fa62476d12e105797100809a53c2783f8839b",
+                "reference": "cc7fa62476d12e105797100809a53c2783f8839b",
                 "shasum": ""
             },
             "require": {
@@ -3319,20 +3319,20 @@
                 "filters",
                 "laravel-enso"
             ],
-            "time": "2020-10-08T07:36:18+00:00"
+            "time": "2020-12-24T11:08:57+00:00"
         },
         {
             "name": "laravel-enso/forms",
-            "version": "4.3.0",
+            "version": "4.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/forms.git",
-                "reference": "2b569f4477d4e73b66be80e0736dee2fab4b97d9"
+                "reference": "2ecdcb49e403dc4f4a51238948c98907b2f41f37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/forms/zipball/2b569f4477d4e73b66be80e0736dee2fab4b97d9",
-                "reference": "2b569f4477d4e73b66be80e0736dee2fab4b97d9",
+                "url": "https://api.github.com/repos/laravel-enso/forms/zipball/2ecdcb49e403dc4f4a51238948c98907b2f41f37",
+                "reference": "2ecdcb49e403dc4f4a51238948c98907b2f41f37",
                 "shasum": ""
             },
             "require": {
@@ -3375,20 +3375,20 @@
                 "json-templates",
                 "laravel-enso"
             ],
-            "time": "2020-10-31T12:26:06+00:00"
+            "time": "2020-12-13T10:28:24+00:00"
         },
         {
             "name": "laravel-enso/helpers",
-            "version": "2.2.2",
+            "version": "2.2.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/helpers.git",
-                "reference": "d8c7ca22d7828b9cffdfdf17e9521c2b2f58f4ee"
+                "reference": "103c9039de9b72135f67b1db01f1a11047f8623b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/helpers/zipball/d8c7ca22d7828b9cffdfdf17e9521c2b2f58f4ee",
-                "reference": "d8c7ca22d7828b9cffdfdf17e9521c2b2f58f4ee",
+                "url": "https://api.github.com/repos/laravel-enso/helpers/zipball/103c9039de9b72135f67b1db01f1a11047f8623b",
+                "reference": "103c9039de9b72135f67b1db01f1a11047f8623b",
                 "shasum": ""
             },
             "require": {
@@ -3426,7 +3426,7 @@
                 "helpers",
                 "laravel-enso"
             ],
-            "time": "2020-11-09T07:13:38+00:00"
+            "time": "2020-12-13T12:44:49+00:00"
         },
         {
             "name": "laravel-enso/history-tracker",
@@ -3638,16 +3638,16 @@
         },
         {
             "name": "laravel-enso/io",
-            "version": "2.0.4",
+            "version": "2.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/io.git",
-                "reference": "892d596de0a3d7635720a4059854b945648fa578"
+                "reference": "ff7f427211127c61efa0360438dd5f02dead529f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/io/zipball/892d596de0a3d7635720a4059854b945648fa578",
-                "reference": "892d596de0a3d7635720a4059854b945648fa578",
+                "url": "https://api.github.com/repos/laravel-enso/io/zipball/ff7f427211127c61efa0360438dd5f02dead529f",
+                "reference": "ff7f427211127c61efa0360438dd5f02dead529f",
                 "shasum": ""
             },
             "require": {
@@ -3659,6 +3659,7 @@
                 "laravel": {
                     "providers": [
                         "LaravelEnso\\IO\\BroadcastServiceProvider",
+                        "LaravelEnso\\IO\\WebsocketServiceProvider",
                         "LaravelEnso\\IO\\EnumServiceProvider"
                     ],
                     "aliases": []
@@ -3688,7 +3689,7 @@
                 "laravel",
                 "laravel-enso"
             ],
-            "time": "2020-10-29T14:53:37+00:00"
+            "time": "2020-12-11T14:18:51+00:00"
         },
         {
             "name": "laravel-enso/localisation",
@@ -3806,16 +3807,16 @@
         },
         {
             "name": "laravel-enso/menus",
-            "version": "4.1.1",
+            "version": "4.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/menus.git",
-                "reference": "c95bb3904a090e49d1c2490f5fc2011cbf409678"
+                "reference": "4b081bbb3c43105cf749acf598ff0120788cf950"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/menus/zipball/c95bb3904a090e49d1c2490f5fc2011cbf409678",
-                "reference": "c95bb3904a090e49d1c2490f5fc2011cbf409678",
+                "url": "https://api.github.com/repos/laravel-enso/menus/zipball/4b081bbb3c43105cf749acf598ff0120788cf950",
+                "reference": "4b081bbb3c43105cf749acf598ff0120788cf950",
                 "shasum": ""
             },
             "require": {
@@ -3862,7 +3863,7 @@
                 "menu-manager",
                 "menus"
             ],
-            "time": "2020-10-08T15:24:50+00:00"
+            "time": "2020-12-07T08:05:44+00:00"
         },
         {
             "name": "laravel-enso/migrator",
@@ -4312,16 +4313,16 @@
         },
         {
             "name": "laravel-enso/roles",
-            "version": "4.1.1",
+            "version": "4.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/roles.git",
-                "reference": "640a82f4ef11d279b183da912374b37f32b1b535"
+                "reference": "aee3dee5c10ea888564564492e155e00f5441ec5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/roles/zipball/640a82f4ef11d279b183da912374b37f32b1b535",
-                "reference": "640a82f4ef11d279b183da912374b37f32b1b535",
+                "url": "https://api.github.com/repos/laravel-enso/roles/zipball/aee3dee5c10ea888564564492e155e00f5441ec5",
+                "reference": "aee3dee5c10ea888564564492e155e00f5441ec5",
                 "shasum": ""
             },
             "require": {
@@ -4372,7 +4373,7 @@
                 "role-manager",
                 "roles"
             ],
-            "time": "2020-10-09T06:21:03+00:00"
+            "time": "2021-01-08T18:08:34+00:00"
         },
         {
             "name": "laravel-enso/searchable",
@@ -4489,16 +4490,16 @@
         },
         {
             "name": "laravel-enso/tables",
-            "version": "4.1.6",
+            "version": "4.7.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/tables.git",
-                "reference": "c3b4bf17b6fcf440cf441049f6ecc860f5491938"
+                "reference": "85d0cf8d670032ab5201470032a814375c2fa145"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/tables/zipball/c3b4bf17b6fcf440cf441049f6ecc860f5491938",
-                "reference": "c3b4bf17b6fcf440cf441049f6ecc860f5491938",
+                "url": "https://api.github.com/repos/laravel-enso/tables/zipball/85d0cf8d670032ab5201470032a814375c2fa145",
+                "reference": "85d0cf8d670032ab5201470032a814375c2fa145",
                 "shasum": ""
             },
             "require": {
@@ -4543,7 +4544,7 @@
                 "datatable",
                 "laravel-enso"
             ],
-            "time": "2020-11-13T12:34:55+00:00"
+            "time": "2021-01-14T14:27:00+00:00"
         },
         {
             "name": "laravel-enso/tasks",
@@ -4663,16 +4664,16 @@
         },
         {
             "name": "laravel-enso/track-who",
-            "version": "2.0.2",
+            "version": "2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel-enso/track-who.git",
-                "reference": "ccb83d9633cfcd521f0fade5eefa0722dad16bfa"
+                "reference": "4f4af064c460c0a88d543ac59029ccabf2692232"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel-enso/track-who/zipball/ccb83d9633cfcd521f0fade5eefa0722dad16bfa",
-                "reference": "ccb83d9633cfcd521f0fade5eefa0722dad16bfa",
+                "url": "https://api.github.com/repos/laravel-enso/track-who/zipball/4f4af064c460c0a88d543ac59029ccabf2692232",
+                "reference": "4f4af064c460c0a88d543ac59029ccabf2692232",
                 "shasum": ""
             },
             "require": {
@@ -4703,7 +4704,7 @@
                 "laravel-enso",
                 "track-who"
             ],
-            "time": "2020-10-08T07:25:14+00:00"
+            "time": "2020-11-26T17:13:45+00:00"
         },
         {
             "name": "laravel-enso/tutorials",
@@ -7682,16 +7683,16 @@
         },
         {
             "name": "spatie/image-optimizer",
-            "version": "1.3.0",
+            "version": "1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/image-optimizer.git",
-                "reference": "f87f8328ca5bfabb3811241f5d35f17e146f7f83"
+                "reference": "6aa170eb292758553d332efee5e0c3977341080c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/image-optimizer/zipball/f87f8328ca5bfabb3811241f5d35f17e146f7f83",
-                "reference": "f87f8328ca5bfabb3811241f5d35f17e146f7f83",
+                "url": "https://api.github.com/repos/spatie/image-optimizer/zipball/6aa170eb292758553d332efee5e0c3977341080c",
+                "reference": "6aa170eb292758553d332efee5e0c3977341080c",
                 "shasum": ""
             },
             "require": {
@@ -7728,29 +7729,28 @@
                 "image-optimizer",
                 "spatie"
             ],
-            "time": "2020-11-10T13:45:49+00:00"
+            "time": "2020-11-28T12:37:58+00:00"
         },
         {
             "name": "spatie/laravel-image-optimizer",
-            "version": "1.6.3",
+            "version": "1.6.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-image-optimizer.git",
-                "reference": "8c7cb83f5bd0dc5484c9918fdb0a9bf608a29c2c"
+                "reference": "c39e9ea77dee6b6eddfc26800adb1aa06a624294"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-image-optimizer/zipball/8c7cb83f5bd0dc5484c9918fdb0a9bf608a29c2c",
-                "reference": "8c7cb83f5bd0dc5484c9918fdb0a9bf608a29c2c",
+                "url": "https://api.github.com/repos/spatie/laravel-image-optimizer/zipball/c39e9ea77dee6b6eddfc26800adb1aa06a624294",
+                "reference": "c39e9ea77dee6b6eddfc26800adb1aa06a624294",
                 "shasum": ""
             },
             "require": {
                 "laravel/framework": "^6.0|^7.0|^8.0",
-                "php": "^7.2",
+                "php": "^7.2|^8.0",
                 "spatie/image-optimizer": "^1.2.0"
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "^2.16",
                 "orchestra/testbench": "^4.0|^5.0|^6.0",
                 "phpunit/phpunit": "^9.0"
             },
@@ -7794,7 +7794,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2020-09-08T19:46:59+00:00"
+            "time": "2020-11-27T18:27:06+00:00"
         },
         {
             "name": "stripe/stripe-php",
