@@ -59,7 +59,7 @@
         "pusher-js": "^5.0.0",
         "v-tooltip": "^2.0.0-rc.32",
         "vue": "^2.6.10",
-        "vue-cal": "^2.0.1",
+        "vue-cal": "^3.10.0",
         "vue-router": "^3.0.1",
         "vuex": "^3.0.0",
         "vuex-router-sync": "^5.0.0"
